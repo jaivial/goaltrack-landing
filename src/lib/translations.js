@@ -9,7 +9,9 @@ export const LANGS = [
 
 export const T = {
   en: {
-    nav: { features: 'Features', mobile: 'Mobile', open: 'Open GoalTrack' },
+    nav: { features: 'Features', screens: 'Screens', videos: 'Videos', mobile: 'Mobile', open: 'Open GoalTrack' },
+    gallery: { kicker: 'Inside the app', title: 'Real screens, real streaks.' },
+    videos: { kicker: 'Watch it move', title: 'A 30-second tour of GoalTrack.' },
     hero: {
       kicker: 'Free · Installable PWA · No ads',
       title1: 'Every day,',
@@ -45,7 +47,9 @@ export const T = {
     }
   },
   es: {
-    nav: { features: 'Funciones', mobile: 'Móvil', open: 'Abrir GoalTrack' },
+    nav: { features: 'Funciones', screens: 'Capturas', videos: 'Vídeos', mobile: 'Móvil', open: 'Abrir GoalTrack' },
+    gallery: { kicker: 'Dentro de la app', title: 'Pantallas reales, rachas reales.' },
+    videos: { kicker: 'Míralo en movimiento', title: 'Un paseo de 30 segundos por GoalTrack.' },
     hero: {
       kicker: 'Gratis · PWA instalable · Sin anuncios',
       title1: 'Cada día,',
@@ -81,7 +85,9 @@ export const T = {
     }
   },
   de: {
-    nav: { features: 'Funktionen', mobile: 'Mobile', open: 'GoalTrack öffnen' },
+    nav: { features: 'Funktionen', screens: 'Screens', videos: 'Videos', mobile: 'Mobile', open: 'GoalTrack öffnen' },
+    gallery: { kicker: 'Einblick in die App', title: 'Echte Screens, echte Streaks.' },
+    videos: { kicker: 'In Bewegung', title: 'Eine 30-Sekunden-Tour durch GoalTrack.' },
     hero: {
       kicker: 'Kostenlos · Installierbare PWA · Keine Werbung',
       title1: 'Jeden Tag,',
@@ -117,7 +123,9 @@ export const T = {
     }
   },
   fr: {
-    nav: { features: 'Fonctions', mobile: 'Mobile', open: 'Ouvrir GoalTrack' },
+    nav: { features: 'Fonctions', screens: 'Captures', videos: 'Vidéos', mobile: 'Mobile', open: 'Ouvrir GoalTrack' },
+    gallery: { kicker: 'L\u2019app de l\u2019intérieur', title: 'De vrais écrans, de vraies séries.' },
+    videos: { kicker: 'En mouvement', title: 'Une visite de 30 secondes de GoalTrack.' },
     hero: {
       kicker: 'Gratuit · PWA installable · Sans pub',
       title1: 'Chaque jour,',
@@ -153,7 +161,9 @@ export const T = {
     }
   },
   pt: {
-    nav: { features: 'Funções', mobile: 'Mobile', open: 'Abrir GoalTrack' },
+    nav: { features: 'Funções', screens: 'Telas', videos: 'Vídeos', mobile: 'Mobile', open: 'Abrir GoalTrack' },
+    gallery: { kicker: 'Dentro do app', title: 'Telas reais, sequências reais.' },
+    videos: { kicker: 'Veja em movimento', title: 'Um passeio de 30 segundos pelo GoalTrack.' },
     hero: {
       kicker: 'Grátis · PWA instalável · Sem anúncios',
       title1: 'Todo dia,',

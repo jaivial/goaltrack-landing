@@ -23,7 +23,7 @@
     <div class="shot reveal" use:reveal={{ delay: 200 }}>
       <div class="frame">
         <div class="frame-bar"><i></i><i></i><i></i></div>
-        <img src={`${CDN}/desktop_goal_detail.png`} alt="GoalTrack habit detail with a 26-week mosaic of daily squares" width="1440" height="900" fetchpriority="high" />
+        <img src={`${CDN}/desktop_goal_detail.png`} alt="GoalTrack habit detail with a 26-week mosaic of daily squares" width="1440" height="900" style="aspect-ratio: 1440 / 900; object-fit: cover;" fetchpriority="high" />
       </div>
       <div class="glow" aria-hidden="true"></div>
     </div>

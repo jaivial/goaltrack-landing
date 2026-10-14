@@ -14,10 +14,10 @@
     </div>
     <div class="phones reveal" use:reveal={{ delay: 150 }}>
       <div class="phone">
-        <img src={`${CDN}/mobile_today.png`} alt="GoalTrack today screen on mobile" width="390" height="844" loading="lazy" />
+        <img src={`${CDN}/mobile_today.png`} alt="GoalTrack today screen on mobile" width="390" height="844" style="aspect-ratio: 390 / 844; object-fit: cover;" loading="lazy" />
       </div>
       <div class="phone back">
-        <img src={`${CDN}/mobile_goal_detail.png`} alt="GoalTrack goal mosaic on mobile" width="390" height="844" loading="lazy" />
+        <img src={`${CDN}/mobile_goal_detail.png`} alt="GoalTrack goal mosaic on mobile" width="390" height="844" style="aspect-ratio: 390 / 844; object-fit: cover;" loading="lazy" />
       </div>
     </div>
   </div>
