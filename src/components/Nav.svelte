@@ -26,6 +26,8 @@
 
     <nav class="links" aria-label="Main">
       <a href="#features">{tr.nav.features}</a>
+      <a href="#screens">{tr.nav.screens}</a>
+      <a href="#videos">{tr.nav.videos}</a>
       <a href="#mobile">{tr.nav.mobile}</a>
     </nav>
 
